@@ -1,4 +1,4 @@
-Rydio 🏍️
+#Rydio 🏍️
 
 Your Smart Biking Companion
 
